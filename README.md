@@ -1,7 +1,7 @@
 # webduino-flashing
 Wgranie oprogramowanie ESPEasy do Webduino
 
-#Podłączenie przewodów webduino <-> USB UART
+# Podłączenie przewodów webduino <-> USB UART
 
 Potrzebny do tego celu jest USB UART oraz webduino i oprogramowanie pobrane z oficjalnej strony ESPeasy.
 
