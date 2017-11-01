@@ -27,5 +27,7 @@ Reszty nie bedę opisywał bo jak ktoś chce flashować webduino to wie po co ;)
 
 
 # Help Sources / pomocne źródła
+
 źródło gdzie znalazłem pomoc :http://www.cnblogs.com/sjqlwy/p/smart_all_in_1.html
+
 loading firmware: https://www.letscontrolit.com/wiki/index.php/ESPEasy#Loading_firmware
