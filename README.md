@@ -1,6 +1,8 @@
 # webduino-flashing
 Wgranie oprogramowanie ESPEasy do Webduino
 
+potrzebujemy pobrać http://www.letscontrolit.com/downloads/ESPEasy_R120.zip
+
 # Podłączenie przewodów webduino <-> USB UART
 
 Potrzebny do tego celu jest USB UART oraz webduino i oprogramowanie pobrane z oficjalnej strony ESPeasy.
@@ -22,3 +24,8 @@ Klikamy FLASH i koniec czekamy do końca procesu i to wszystko. Odłączamy prze
 Po uruchomieniu webduino sprawdzamy czy rozgłasza nam sieć bezprzewodową ESPeasy_0 (coś takiego) podłączamy się do tej sieci hasłem configesp i konfigurujemy by podłączył się do naszej sieci domowej.
 
 Reszty nie bedę opisywał bo jak ktoś chce flashować webduino to wie po co ;)
+
+
+# Help Sources / pomocne źródła
+źródło gdzie znalazłem pomoc :http://www.cnblogs.com/sjqlwy/p/smart_all_in_1.html
+loading firmware: https://www.letscontrolit.com/wiki/index.php/ESPEasy#Loading_firmware
