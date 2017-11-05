@@ -7,11 +7,11 @@ potrzebujemy pobrać http://www.letscontrolit.com/downloads/ESPEasy_R120.zip
 
 Potrzebny do tego celu jest USB UART oraz webduino i oprogramowanie pobrane z oficjalnej strony ESPeasy.
 
-Webduino TX     <->     RX USB UART (komunikacja)
-Webduino RX     <->     TX USB UART (komunikacja)
-Webduino GND    <->     GND USB UART (masa -)
-Webduino 3.3V   <->     3.3V USB UART (zasilanie 3.3V!)
-Webduino GPIO0  <->     GND USB UART (to połączenie jest potrzebne do uruchomienia trybu flashowania)
+- Webduino TX     <->     RX USB UART (komunikacja)
+- Webduino RX     <->     TX USB UART (komunikacja)
+- Webduino GND    <->     GND USB UART (masa -)
+- Webduino 3.3V   <->     3.3V USB UART (zasilanie 3.3V!)
+- Webduino GPIO0  <->     GND USB UART (to połączenie jest potrzebne do uruchomienia trybu flashowania)
 
 Wszystko musi być podłączone przed włożeniem USB UART do komputera.
 
